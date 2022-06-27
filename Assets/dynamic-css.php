@@ -1,6 +1,5 @@
 <?php
 
-/* Font styles */
 
 $main_font = gridlove_get_font_option( 'main_font' );
 $h_font = gridlove_get_font_option( 'h_font' );
