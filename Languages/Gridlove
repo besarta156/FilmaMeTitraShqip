@@ -824,3 +824,828 @@ msgstr ""
 #: core/admin/options-fields.php:116, core/admin/options-fields.php:452
 msgid "Search button"
 msgstr ""
+#: core/admin/options-fields.php:116, core/admin/options-fields.php:452
+msgid "Search button"
+msgstr ""
+
+#: core/admin/options-fields.php:117, core/admin/options-fields.php:453
+msgid "Header Sidebar button"
+msgstr ""
+
+#: core/admin/options-fields.php:118, core/admin/options-fields.php:454
+msgid "Search form"
+msgstr ""
+
+#: core/admin/options-fields.php:119, core/admin/options-fields.php:455
+msgid "Social menu button"
+msgstr ""
+
+#: core/admin/options-fields.php:120, core/admin/options-fields.php:456
+msgid "Social menu icons list"
+msgstr ""
+
+#: core/admin/options-fields.php:121, core/admin/options-fields.php:457
+msgid "Login form (icon/dropdown)"
+msgstr ""
+
+#: core/admin/options-fields.php:140
+msgid "Height"
+msgstr ""
+
+#: core/admin/options-fields.php:141
+msgid "Specify height for your main header area"
+msgstr ""
+
+#: core/admin/options-fields.php:142
+msgid "Note: Height value is in px."
+msgstr ""
+
+#: core/admin/options-fields.php:150, core/admin/options-fields.php:263, core/admin/options-fields.php:388, core/admin/options-fields.php:635
+msgid "Background color"
+msgstr ""
+
+#: core/admin/options-fields.php:159, core/admin/options-fields.php:272, core/admin/options-fields.php:397, core/admin/options-fields.php:569, core/admin/options-fields.php:644
+msgid "Text color"
+msgstr ""
+
+#: core/admin/options-fields.php:167, core/admin/options-fields.php:281, core/admin/options-fields.php:406, core/admin/options-fields.php:578, core/admin/options-fields.php:653
+msgid "Accent color"
+msgstr ""
+
+#: core/admin/options-fields.php:175
+msgid "Bottom bar background color"
+msgstr ""
+
+#: core/admin/options-fields.php:184
+msgid "Bottom bar text color"
+msgstr ""
+
+#: core/admin/options-fields.php:193
+msgid "Bottom bar accent color"
+msgstr ""
+
+#: core/admin/options-fields.php:202
+msgid "Enable logo background"
+msgstr ""
+
+#: core/admin/options-fields.php:203
+msgid "Check if you want to add background color to logo area"
+msgstr ""
+
+#: core/admin/options-fields.php:210
+msgid "Logo background color"
+msgstr ""
+
+#: core/admin/options-fields.php:221
+msgid "Header orientation"
+msgstr ""
+
+#: core/admin/options-fields.php:222
+msgid "Choose if header elements follow site content or browser width "
+msgstr ""
+
+#: core/admin/options-fields.php:224
+msgid "Site content"
+msgstr ""
+
+#: core/admin/options-fields.php:225
+msgid "Browser (full width)"
+msgstr ""
+
+#: core/admin/options-fields.php:234
+msgid "Apply bottom shadow"
+msgstr ""
+
+#: core/admin/options-fields.php:235
+msgid "Check if you want to apply bottom shadow on header (usually good when header is white)"
+msgstr ""
+
+#: core/admin/options-fields.php:246
+msgid "Top Bar"
+msgstr ""
+
+#: core/admin/options-fields.php:247
+msgid "Modify and style your header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:254
+msgid "Header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:255
+msgid "Check if you want to enable header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:290
+msgid "Left slot"
+msgstr ""
+
+#: core/admin/options-fields.php:291
+msgid "Choose an element to display in left slot of header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:300
+msgid "Center slot"
+msgstr ""
+
+#: core/admin/options-fields.php:301
+msgid "Choose an element to display in center slot of header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:310
+msgid "Right slot"
+msgstr ""
+
+#: core/admin/options-fields.php:311
+msgid "Choose an element to display in right slot of header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:326
+msgid "Sticky Header"
+msgstr ""
+
+#: core/admin/options-fields.php:327
+msgid "Modify and style your sticky header area"
+msgstr ""
+
+#: core/admin/options-fields.php:334
+msgid "Display sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:335
+msgid "Check if you want to enable sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:343
+msgid "Sticky header offset"
+msgstr ""
+
+#: core/admin/options-fields.php:344
+msgid "Specify after how many px of scrolling the sticky header appears"
+msgstr ""
+
+#: core/admin/options-fields.php:353
+msgid "Smart sticky"
+msgstr ""
+
+#: core/admin/options-fields.php:354
+msgid "Sticky header appears only if you scroll up"
+msgstr ""
+
+#: core/admin/options-fields.php:362
+msgid "Sticky header logo"
+msgstr ""
+
+#: core/admin/options-fields.php:363
+msgid "Choose which logo to display on sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:365
+msgid "Main logo"
+msgstr ""
+
+#: core/admin/options-fields.php:366
+msgid "Mini (mobile) logo"
+msgstr ""
+
+#: core/admin/options-fields.php:375
+msgid "Choose sticky header colors from"
+msgstr ""
+
+#: core/admin/options-fields.php:377
+msgid "Main header colors"
+msgstr ""
+
+#: core/admin/options-fields.php:378
+msgid "Header bottom bar colors"
+msgstr ""
+
+#: core/admin/options-fields.php:379
+msgid "Custom colors"
+msgstr ""
+
+#: core/admin/options-fields.php:415
+msgid "Customize elements and layout"
+msgstr ""
+
+#: core/admin/options-fields.php:416
+msgid "Enable this option if you want to customize sticky header layout, menu and special elements"
+msgstr ""
+
+#: core/admin/options-fields.php:424
+msgid "Choose a layout for your sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:437
+msgid "Menu"
+msgstr ""
+
+#: core/admin/options-fields.php:438
+msgid "Choose different menu for sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:448
+msgid "Special elements"
+msgstr ""
+
+#: core/admin/options-fields.php:477
+msgid "Responsive Menu"
+msgstr ""
+
+#: core/admin/options-fields.php:478
+msgid "Modify and style your responsive menu"
+msgstr ""
+
+#: core/admin/options-fields.php:485
+msgid "Append secondary navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:486
+msgid "If secondary menus are used, it will be applied to the bottom of the main navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:493
+msgid "Group secondary menus under the \"more\" link"
+msgstr ""
+
+#: core/admin/options-fields.php:494
+msgid "Enable this option if you want to group secondary menus under a single \"more\" link"
+msgstr ""
+
+#: core/admin/options-fields.php:502
+msgid "Append social menu"
+msgstr ""
+
+#: core/admin/options-fields.php:503
+msgid "If social menu is used, it will be applied to the bottom of the main navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:518
+msgid "Manage your main content styling options"
+msgstr ""
+
+#: core/admin/options-fields.php:524
+msgid "Body background color"
+msgstr ""
+
+#: core/admin/options-fields.php:525
+msgid "Specify body background color"
+msgstr ""
+
+#: core/admin/options-fields.php:534
+msgid "Body background image"
+msgstr ""
+
+#: core/admin/options-fields.php:535
+msgid "Optionally, set body background image or pattern instead of color"
+msgstr ""
+
+#: core/admin/options-fields.php:542
+msgid "Module heading color"
+msgstr ""
+
+#: core/admin/options-fields.php:543
+msgid "This color applies to archive titles and module titles "
+msgstr ""
+
+#: core/admin/options-fields.php:551
+msgid "Content/box background color"
+msgstr ""
+
+#: core/admin/options-fields.php:552
+msgid "Specify main content background color"
+msgstr ""
+
+#: core/admin/options-fields.php:560
+msgid "Content heading color"
+msgstr ""
+
+#: core/admin/options-fields.php:561
+msgid "This color applies to post/page titles, widget titles, etc... "
+msgstr ""
+
+#: core/admin/options-fields.php:570
+msgid "This color applies to standard text"
+msgstr ""
+
+#: core/admin/options-fields.php:579
+msgid "This color applies to links, buttons, pagination, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:587
+msgid "Meta color"
+msgstr ""
+
+#: core/admin/options-fields.php:588
+msgid "This color applies to miscellaneous elements like post meta data (author link, date, etc...)"
+msgstr ""
+
+#: core/admin/options-fields.php:596
+msgid "Highlight background color"
+msgstr ""
+
+#: core/admin/options-fields.php:597
+msgid "Background color for highlighted elements"
+msgstr ""
+
+#: core/admin/options-fields.php:605
+msgid "Highlight text color"
+msgstr ""
+
+#: core/admin/options-fields.php:606
+msgid "Text color for highlighted elements"
+msgstr ""
+
+#: core/admin/options-fields.php:613
+msgid "Highlight accent color"
+msgstr ""
+
+#: core/admin/options-fields.php:614
+msgid "Accent color for highlighted elements"
+msgstr ""
+
+#: core/admin/options-fields.php:628
+msgid "Footer"
+msgstr ""
+
+#: core/admin/options-fields.php:629
+msgid "Manage options for your footer area"
+msgstr ""
+
+#: core/admin/options-fields.php:636
+msgid "Specify footer background color"
+msgstr ""
+
+#: core/admin/options-fields.php:645
+msgid "This is the standard text color for footer"
+msgstr ""
+
+#: core/admin/options-fields.php:654
+msgid "This color will apply to buttons, links, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:663
+msgid "Display footer widgetized area"
+msgstr ""
+
+#: core/admin/options-fields.php:664
+msgid "Check if you want to include footer widgetized area in your theme. You can manage the footer content in the <a href=\"%s\">Appearance -> Widgets</a> settings."
+msgstr ""
+
+#: core/admin/options-fields.php:671
+msgid "Footer columns"
+msgstr ""
+
+#: core/admin/options-fields.php:672
+msgid "Choose number of columns to display in footer area"
+msgstr ""
+
+#: core/admin/options-fields.php:673
+msgid "Note: Each column represents one Footer Sidebar in <a href=\"%s\">Appearance -> Widgets</a> settings."
+msgstr ""
+
+#: core/admin/options-fields.php:675
+msgid "1 Column"
+msgstr ""
+
+#: core/admin/options-fields.php:676
+msgid "2 Columns"
+msgstr ""
+
+#: core/admin/options-fields.php:677
+msgid "3 Columns"
+msgstr ""
+
+#: core/admin/options-fields.php:678
+msgid "4 Columns"
+msgstr ""
+
+#: core/admin/options-fields.php:687
+msgid "Display footer bottom bar"
+msgstr ""
+
+#: core/admin/options-fields.php:688
+msgid "Check if you want to display footer bottom bar"
+msgstr ""
+
+#: core/admin/options-fields.php:695
+msgid "Copyright"
+msgstr ""
+
+#: core/admin/options-fields.php:696
+msgid "Specify the copyright text to show at the bottom of the website"
+msgstr ""
+
+#: core/admin/options-fields.php:697
+msgid "<p style=\"text-align: center;\">Copyright &copy; {current_year}. Created by <a href=\"http://mekshq.com\" target=\"_blank\">Meks</a>. Powered by <a href=\"http://www.wordpress.org\" target=\"_blank\">WordPress</a></p>"
+msgstr ""
+
+#: core/admin/options-fields.php:711
+msgid "Sidebars"
+msgstr ""
+
+#: core/admin/options-fields.php:713
+msgid "Use this panel to generate additional sidebars. You can manage sidebars content in the <a href=\"%s\">Appearance -> Widgets</a> settings."
+msgstr ""
+
+#: core/admin/options-fields.php:736
+msgid "Please note that each time you change the values for cover area image sizes, you need to run Force Regenerate Thumbnails plugin, as described in theme documentation."
+msgstr ""
+
+#: core/admin/options-fields.php:744
+msgid "Cover image format"
+msgstr ""
+
+#: core/admin/options-fields.php:745
+msgid "Choose how to display cover images"
+msgstr ""
+
+#: core/admin/options-fields.php:747
+msgid "Fixed size (crop both width and height)"
+msgstr ""
+
+#: core/admin/options-fields.php:748
+msgid "Keep original ratio (scale to height)"
+msgstr ""
+
+#: core/admin/options-fields.php:757
+msgid "Cover image width"
+msgstr ""
+
+#: core/admin/options-fields.php:758
+msgid "Specify width for your cover image in px"
+msgstr ""
+
+#: core/admin/options-fields.php:768
+msgid "Cover image height"
+msgstr ""
+
+#: core/admin/options-fields.php:769
+msgid "Specify height for your cover image in px"
+msgstr ""
+
+#: core/admin/options-fields.php:777
+msgid "Cover image overlay style"
+msgstr ""
+
+#: core/admin/options-fields.php:778
+msgid "Choose your prefered style for gradients and overlays on cover images"
+msgstr ""
+
+#: core/admin/options-fields.php:780
+msgid "Dark (default)"
+msgstr ""
+
+#: core/admin/options-fields.php:781
+msgid "Soft-dark (lighter overlays)"
+msgstr ""
+
+#: core/admin/options-fields.php:782
+msgid "Off (remove overlays completely)"
+msgstr ""
+
+#: core/admin/options-fields.php:803, core/admin/options-fields.php:1041
+msgid "Manage options for cover Layout 1"
+msgstr ""
+
+#: core/admin/options-fields.php:810, core/admin/options-fields.php:897, core/admin/options-fields.php:982, core/admin/options-fields.php:1048, core/admin/options-fields.php:1123, core/admin/options-fields.php:1170, core/admin/options-fields.php:1220, core/admin/options-fields.php:1267
+msgid "Display category"
+msgstr ""
+
+#: core/admin/options-fields.php:811, core/admin/options-fields.php:898, core/admin/options-fields.php:983, core/admin/options-fields.php:1049, core/admin/options-fields.php:1124, core/admin/options-fields.php:1171, core/admin/options-fields.php:1221, core/admin/options-fields.php:1268, core/admin/options-fields.php:1455
+msgid "Check if you want to display a category link"
+msgstr ""
+
+#: core/admin/options-fields.php:818, core/admin/options-fields.php:905
+msgid "Display text excerpt"
+msgstr ""
+
+#: core/admin/options-fields.php:819, core/admin/options-fields.php:906
+msgid "Check if you want to display a post excerpt"
+msgstr ""
+
+#: core/admin/options-fields.php:827, core/admin/options-fields.php:914
+msgid "Excerpt limit"
+msgstr ""
+
+#: core/admin/options-fields.php:828, core/admin/options-fields.php:915
+msgid "Specify max number of characters to limit excerpt"
+msgstr ""
+
+#: core/admin/options-fields.php:838, core/admin/options-fields.php:925, core/admin/options-fields.php:992, core/admin/options-fields.php:1058, core/admin/options-fields.php:1133, core/admin/options-fields.php:1180, core/admin/options-fields.php:1230, core/admin/options-fields.php:1277, core/admin/options-fields.php:1463
+msgid "Meta data"
+msgstr ""
+
+#: core/admin/options-fields.php:839, core/admin/options-fields.php:926, core/admin/options-fields.php:993, core/admin/options-fields.php:1059, core/admin/options-fields.php:1134, core/admin/options-fields.php:1181, core/admin/options-fields.php:1231, core/admin/options-fields.php:1278, core/admin/options-fields.php:1464
+msgid "Check and re-order which meta data you want to display"
+msgstr ""
+
+#: core/admin/options-fields.php:847, core/admin/options-fields.php:934, core/admin/options-fields.php:1001, core/admin/options-fields.php:1067, core/admin/options-fields.php:1142, core/admin/options-fields.php:1189, core/admin/options-fields.php:1239, core/admin/options-fields.php:1286, core/admin/options-fields.php:1472
+msgid "Display format icon"
+msgstr ""
+
+#: core/admin/options-fields.php:848, core/admin/options-fields.php:935, core/admin/options-fields.php:1002, core/admin/options-fields.php:1068, core/admin/options-fields.php:1143, core/admin/options-fields.php:1190, core/admin/options-fields.php:1240, core/admin/options-fields.php:1287, core/admin/options-fields.php:1473
+msgid "Check if you want to display post format icon for non-standard posts (i.e video, audio, gallery...)"
+msgstr ""
+
+#: core/admin/options-fields.php:855, core/admin/options-fields.php:942, core/admin/options-fields.php:1009, core/admin/options-fields.php:1075
+msgid "Autoplay (rotate)"
+msgstr ""
+
+#: core/admin/options-fields.php:856, core/admin/options-fields.php:943, core/admin/options-fields.php:1010, core/admin/options-fields.php:1076
+msgid "Check if you want to auto rotate items in cover area sliders"
+msgstr ""
+
+#: core/admin/options-fields.php:863, core/admin/options-fields.php:950, core/admin/options-fields.php:1017, core/admin/options-fields.php:1083
+msgid "Autoplay time"
+msgstr ""
+
+#: core/admin/options-fields.php:864, core/admin/options-fields.php:951, core/admin/options-fields.php:1018, core/admin/options-fields.php:1084
+msgid "Specify autoplay time per slide"
+msgstr ""
+
+#: core/admin/options-fields.php:865, core/admin/options-fields.php:952, core/admin/options-fields.php:1019, core/admin/options-fields.php:1085
+msgid "Note: Please specify number in seconds"
+msgstr ""
+
+#: core/admin/options-fields.php:890
+msgid "Manage options for cover Layout 2"
+msgstr ""
+
+#: core/admin/options-fields.php:975
+msgid "Manage options for cover Layout 3"
+msgstr ""
+
+#: core/admin/options-fields.php:1098
+msgid "Main Layouts"
+msgstr ""
+
+#: core/admin/options-fields.php:1116
+msgid "Manage options for posts displayed in Layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:1163
+msgid "Manage options for posts displayed in Layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1213
+msgid "Manage options for posts displayed in Layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1260
+msgid "Manage options for posts displayed in Layout D"
+msgstr ""
+
+#: core/admin/options-fields.php:1299
+msgid "Highlight Posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1300
+msgid "You can choose posts by a specific criteria and they will be displayed in different color/styling in order to stand out among other posts on all post listing templates."
+msgstr ""
+
+#: core/admin/options-fields.php:1306
+msgid "Enable highlight posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1307
+msgid "Check if you want to enable and use the highlight feature"
+msgstr ""
+
+#: core/admin/options-fields.php:1318
+msgid "Check if you want to highlight posts that belong to a particular category"
+msgstr ""
+
+#: core/admin/options-fields.php:1319
+msgid "Note: You can select one or more categories."
+msgstr ""
+
+#: core/admin/options-fields.php:1329
+msgid "Check if you want to highlight posts that are tagged with a specific tag(s)"
+msgstr ""
+
+#: core/admin/options-fields.php:1337
+msgid "With more than \"x\" comments"
+msgstr ""
+
+#: core/admin/options-fields.php:1338
+msgid "Check if you want to highlight posts which have at least a certain number of comments"
+msgstr ""
+
+#: core/admin/options-fields.php:1339
+msgid "i.e. If you put 50, posts with more than 50 comments will be highlighted "
+msgstr ""
+
+#: core/admin/options-fields.php:1349
+msgid "With more than \"x\" views"
+msgstr ""
+
+#: core/admin/options-fields.php:1350
+msgid "Check if you want to highlight posts which have at least a certain number of views"
+msgstr ""
+
+#: core/admin/options-fields.php:1351
+msgid "i.e. If you put 50, posts with more than 50 views will be highlighted "
+msgstr ""
+
+#: core/admin/options-fields.php:1363
+msgid "Pick manually"
+msgstr ""
+
+#: core/admin/options-fields.php:1364
+msgid "Choose your highlight posts manually"
+msgstr ""
+
+#: core/admin/options-fields.php:1372
+msgid "Choose posts by IDs"
+msgstr ""
+
+#: core/admin/options-fields.php:1373
+msgid "Due to certain limitations, the previous select option lets you pick from latest 100 posts. Use this option to manually specify posts by their IDs if they cannot be found in the option above"
+msgstr ""
+
+#: core/admin/options-fields.php:1374
+msgid "Note: This option has a priority over the above option. Separate post IDs by comma, i.e. 43,56,26,187"
+msgstr ""
+
+#: core/admin/options-fields.php:1385
+msgid "Single Post"
+msgstr ""
+
+#: core/admin/options-fields.php:1395
+msgid "Manage general layout options for your single posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1403
+msgid "Single post default layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1404, core/admin/options-fields.php:1413
+msgid "Note: You can override this option for each particular post"
+msgstr ""
+
+#: core/admin/options-fields.php:1421
+msgid "Post standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1422
+msgid "Choose a single post standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1431
+msgid "Post sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1432
+msgid "Choose a single post sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1446
+msgid "Display"
+msgstr ""
+
+#: core/admin/options-fields.php:1447
+msgid "Manage general display options for your single posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1454
+msgid "Display category link"
+msgstr ""
+
+#: core/admin/options-fields.php:1481
+msgid "Display share buttons"
+msgstr ""
+
+#: core/admin/options-fields.php:1482
+msgid "Check if you want to display share buttons"
+msgstr ""
+
+#: core/admin/options-fields.php:1490
+msgid "Social sharing"
+msgstr ""
+
+#: core/admin/options-fields.php:1491
+msgid "Choose social networks that you want to use for sharing posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1493
+msgid "Facebook"
+msgstr ""
+
+#: core/admin/options-fields.php:1494
+msgid "Twitter"
+msgstr ""
+
+#: core/admin/options-fields.php:1495
+msgid "Reddit"
+msgstr ""
+
+#: core/admin/options-fields.php:1496
+msgid "Pinterest"
+msgstr ""
+
+#: core/admin/options-fields.php:1497, core/translate.php:30
+msgid "Email"
+msgstr ""
+
+#: core/admin/options-fields.php:1498
+msgid "Google+"
+msgstr ""
+
+#: core/admin/options-fields.php:1499
+msgid "LinkedIN"
+msgstr ""
+
+#: core/admin/options-fields.php:1500
+msgid "StumbleUpon"
+msgstr ""
+
+#: core/admin/options-fields.php:1501
+msgid "vKontakte"
+msgstr ""
+
+#: core/admin/options-fields.php:1502
+msgid "WhatsApp"
+msgstr ""
+
+#: core/admin/options-fields.php:1523, core/admin/options-fields.php:1728
+msgid "Display featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:1524
+msgid "Check if you want to display the featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:1525
+msgid "Note: this option will only apply post layouts with no cover image"
+msgstr ""
+
+#: core/admin/options-fields.php:1532, core/admin/options-fields.php:1736
+msgid "Display featured image caption"
+msgstr ""
+
+#: core/admin/options-fields.php:1533
+msgid "Check if you want to display the featured image captions"
+msgstr ""
+
+#: core/admin/options-fields.php:1541
+msgid "Display headline (excerpt)"
+msgstr ""
+
+#: core/admin/options-fields.php:1542
+msgid "Check if you want to display post excerpt at the beginning of the post"
+msgstr ""
+
+#: core/admin/options-fields.php:1549
+msgid "Display tags"
+msgstr ""
+
+#: core/admin/options-fields.php:1550
+msgid "Check if you want to display tags"
+msgstr ""
+
+#: core/admin/options-fields.php:1558
+msgid "Display author area"
+msgstr ""
+
+#: core/admin/options-fields.php:1559
+msgid "Check if you want to display the author area."
+msgstr ""
+
+#: core/admin/options-fields.php:1566
+msgid "Display prev/next posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1567
+msgid "Check if you want to display previous/next post links"
+msgstr ""
+
+#: core/admin/options-fields.php:1574
+msgid "Enable infinite scroll loading"
+msgstr ""
+
+#: core/admin/options-fields.php:1575
+msgid "If you check this option, next posts will be automatically loaded while you scroll to the end of a current post"
+msgstr ""
+
+#: core/admin/options-fields.php:1587
+msgid "Related"
+msgstr ""
+
+#: core/admin/options-fields.php:1588
+msgid "Manage options for \"related posts\" section below single post content"
+msgstr ""
+
+#: core/admin/options-fields.php:1595
+msgid "Display \"related\" posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1596
+msgid "Choose if you want to display related posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1603
+msgid "Pull related posts by using"
+msgstr ""
+
+#: core/admin/options-fields.php:1604
