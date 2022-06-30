@@ -1649,3 +1649,827 @@ msgid "Pull related posts by using"
 msgstr ""
 
 #: core/admin/options-fields.php:1604
+
+#: core/admin/options-fields.php:1604
+msgid "Choose whether you want to use builtin related posts algorithm or one of supported plugins"
+msgstr ""
+
+#: core/admin/options-fields.php:1606
+msgid "Note: You need to install and activate one of suggested plugins in order to select and use it with this option"
+msgstr ""
+
+#: core/admin/options-fields.php:1614
+msgid "Related area posts number limit"
+msgstr ""
+
+#: core/admin/options-fields.php:1626
+msgid "Related posts layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1627
+msgid "Choose a layout for related posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1636
+msgid "Related area chooses from posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1638
+msgid "Located in the same category"
+msgstr ""
+
+#: core/admin/options-fields.php:1639
+msgid "Tagged with at least one same tag"
+msgstr ""
+
+#: core/admin/options-fields.php:1640
+msgid "Located in the same category OR tagged with a same tag"
+msgstr ""
+
+#: core/admin/options-fields.php:1641
+msgid "Located in the same category AND tagged with a same tag"
+msgstr ""
+
+#: core/admin/options-fields.php:1642
+msgid "By the same author"
+msgstr ""
+
+#: core/admin/options-fields.php:1643
+msgid "All posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1655
+msgid "Related posts are ordered by"
+msgstr ""
+
+#: core/admin/options-fields.php:1667
+msgid "Related posts are not older than"
+msgstr ""
+
+#: core/admin/options-fields.php:1683
+msgid "Page"
+msgstr ""
+
+#: core/admin/options-fields.php:1684
+msgid "Manage default settings for your pages"
+msgstr ""
+
+#: core/admin/options-fields.php:1690
+msgid "Page default layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1691, core/admin/options-fields.php:1700
+msgid "Note: You can override this option for each particular page"
+msgstr ""
+
+#: core/admin/options-fields.php:1708
+msgid "Page standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1709
+msgid "Choose a page standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1718
+msgid "Page sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1719
+msgid "Choose a page sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1729
+msgid "Check if you want to display featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:1737
+msgid "Check if you want to display featured image caption"
+msgstr ""
+
+#: core/admin/options-fields.php:1748
+msgid "Category Template"
+msgstr ""
+
+#: core/admin/options-fields.php:1749
+msgid "Manage settings for category template."
+msgstr ""
+
+#: core/admin/options-fields.php:1757
+msgid "Choose cover area layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1768
+msgid "Specify max number of posts to display in cover area"
+msgstr ""
+
+#: core/admin/options-fields.php:1776
+msgid "Cover area displays"
+msgstr ""
+
+#: core/admin/options-fields.php:1778
+msgid "Latest posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1779
+msgid "Most commented posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1780
+msgid "Most viewed posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1789
+msgid "Make cover posts unique"
+msgstr ""
+
+#: core/admin/options-fields.php:1790
+msgid "Check if you want to exclude cover posts from main post listing below "
+msgstr ""
+
+#: core/admin/options-fields.php:1799, core/admin/options-fields.php:1906, core/admin/options-fields.php:1981, core/admin/options-fields.php:2055, core/admin/options-fields.php:2129
+msgid "Layout Type"
+msgstr ""
+
+#: core/admin/options-fields.php:1800, core/admin/options-fields.php:1907, core/admin/options-fields.php:1982, core/admin/options-fields.php:2056, core/admin/options-fields.php:2130
+msgid "Choose your main post layout type"
+msgstr ""
+
+#: core/admin/options-fields.php:1812, core/admin/options-fields.php:1919, core/admin/options-fields.php:1994, core/admin/options-fields.php:2068, core/admin/options-fields.php:2142
+msgid "Choose your simple post layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1822, core/admin/options-fields.php:1929, core/admin/options-fields.php:2004, core/admin/options-fields.php:2078, core/admin/options-fields.php:2152
+msgid "Choose your masonry post layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1831, core/admin/options-fields.php:1938, core/admin/options-fields.php:2013, core/admin/options-fields.php:2087, core/admin/options-fields.php:2162
+msgid "Posts per page"
+msgstr ""
+
+#: core/admin/options-fields.php:1832, core/admin/options-fields.php:1939, core/admin/options-fields.php:2014, core/admin/options-fields.php:2088, core/admin/options-fields.php:2163
+msgid "Choose how many posts per page you want to display"
+msgstr ""
+
+#: core/admin/options-fields.php:1834, core/admin/options-fields.php:1941, core/admin/options-fields.php:2016, core/admin/options-fields.php:2090, core/admin/options-fields.php:2165
+msgid "Inherit from global option in <a href=\"%s\">Settings->Reading</a>"
+msgstr ""
+
+#: core/admin/options-fields.php:1835, core/admin/options-fields.php:1942, core/admin/options-fields.php:2017, core/admin/options-fields.php:2091, core/admin/options-fields.php:2166
+msgid "Custom number"
+msgstr ""
+
+#: core/admin/options-fields.php:1844, core/admin/options-fields.php:1951, core/admin/options-fields.php:2026, core/admin/options-fields.php:2100, core/admin/options-fields.php:2175
+msgid "Number of posts per page"
+msgstr ""
+
+#: core/admin/options-fields.php:1855
+msgid "Choose a pagination type for category template"
+msgstr ""
+
+#: core/admin/options-fields.php:1856
+msgid "Note: You can override this option for each category separately"
+msgstr ""
+
+#: core/admin/options-fields.php:1865
+msgid "If you check this option, you can choose an additonal layout to append it on top of main post layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1874
+msgid "Choose combo layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1875
+msgid "Note: Combo layout will be displayed on the first page only"
+msgstr ""
+
+#: core/admin/options-fields.php:1885
+msgid "Display child category links"
+msgstr ""
+
+#: core/admin/options-fields.php:1886
+msgid "If you check this option and current category has child categories, their links will be diplayed below category page title"
+msgstr ""
+
+#: core/admin/options-fields.php:1898
+msgid "Tag Template"
+msgstr ""
+
+#: core/admin/options-fields.php:1899
+msgid "Manage settings for tag template"
+msgstr ""
+
+#: core/admin/options-fields.php:1962
+msgid "Choose a pagination type for tag template"
+msgstr ""
+
+#: core/admin/options-fields.php:1973
+msgid "Author Template"
+msgstr ""
+
+#: core/admin/options-fields.php:1974
+msgid "Manage settings for author template"
+msgstr ""
+
+#: core/admin/options-fields.php:2036
+msgid "Choose a pagination type for author template"
+msgstr ""
+
+#: core/admin/options-fields.php:2047
+msgid "Search Template"
+msgstr ""
+
+#: core/admin/options-fields.php:2048
+msgid "Manage settings for search results template"
+msgstr ""
+
+#: core/admin/options-fields.php:2110
+msgid "Choose a pagination type for search template"
+msgstr ""
+
+#: core/admin/options-fields.php:2122
+msgid "Archive Templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2123
+msgid "Manage settings for miscellaneous templates, i.e. date archives, post format archives, index (latest posts), etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:2185
+msgid "Choose a pagination type for archive templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2196
+msgid "Typography"
+msgstr ""
+
+#: core/admin/options-fields.php:2197
+msgid "Manage fonts and typography settings"
+msgstr ""
+
+#: core/admin/options-fields.php:2203
+msgid "Main text font"
+msgstr ""
+
+#: core/admin/options-fields.php:2211
+msgid "This is your main font, used for standard text"
+msgstr ""
+
+#: core/admin/options-fields.php:2229
+msgid "Headings font"
+msgstr ""
+
+#: core/admin/options-fields.php:2237
+msgid "This is a font used for titles and headings"
+msgstr ""
+
+#: core/admin/options-fields.php:2256
+msgid "Navigation font"
+msgstr ""
+
+#: core/admin/options-fields.php:2264
+msgid "This is a font used for main website navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:2283
+msgid "Fine-tune typography"
+msgstr ""
+
+#: core/admin/options-fields.php:2284
+msgid "Advanced options to adjust font sizes"
+msgstr ""
+
+#: core/admin/options-fields.php:2291
+msgid "Main text font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2292
+msgid "This is your body text font size, used for default text on single posts and pages"
+msgstr ""
+
+#: core/admin/options-fields.php:2302
+msgid "Navigation font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2303
+msgid "Applies to main website navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:2313
+msgid "Modules text font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2314
+msgid "Applies to text excerpts in post modules"
+msgstr ""
+
+#: core/admin/options-fields.php:2324
+msgid "Small text (widget) font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2325
+msgid "Applies to widgets and some special elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2335
+msgid "H1 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2336
+msgid "Applies to H1 elements and single post/page titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2346
+msgid "H2 (archive/module title) font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2347
+msgid "Applies to H2 elements, archive titles and module titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2357
+msgid "H3 (module post title) font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2358
+msgid "Applies to H3 elements and post titles in modules"
+msgstr ""
+
+#: core/admin/options-fields.php:2368
+msgid "H4 (widget title) font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2369
+msgid "Applies to H4 elements and widget titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2379
+msgid "H5 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2380
+msgid "Applies to H5 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2390
+msgid "H6 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2391
+msgid "Applies to H6 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2402
+msgid "Uppercase text"
+msgstr ""
+
+#: core/admin/options-fields.php:2403
+msgid "Check if you want to show CAPITAL LETTERS for specific elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2405
+msgid "Site title"
+msgstr ""
+
+#: core/admin/options-fields.php:2406
+msgid "Site description"
+msgstr ""
+
+#: core/admin/options-fields.php:2407
+msgid "Main navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:2408
+msgid "Post/Page titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2409
+msgid "Module/Archive titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2410
+msgid "Widget titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2431
+msgid "Ads"
+msgstr ""
+
+#: core/admin/options-fields.php:2432
+msgid "Use these options to fill your ads slots. Both image and JavaScript related ads are allowed."
+msgstr ""
+
+#: core/admin/options-fields.php:2438
+msgid "Header ad slot"
+msgstr ""
+
+#: core/admin/options-fields.php:2439
+msgid "This ad will be displayed in website header. You can enable it in header main area settings"
+msgstr ""
+
+#: core/admin/options-fields.php:2441
+msgid "Note: If you want to paste HTML or js code, use \"text\" mode in editor. Suggested size of an ad banner is 728x90"
+msgstr ""
+
+#: core/admin/options-fields.php:2452
+msgid "Below header"
+msgstr ""
+
+#: core/admin/options-fields.php:2453
+msgid "This ad will be displayed between your header and website content"
+msgstr ""
+
+#: core/admin/options-fields.php:2455, core/admin/options-fields.php:2468, core/admin/options-fields.php:2481, core/admin/options-fields.php:2494, core/admin/options-fields.php:2507
+msgid "Note: If you want to paste HTML or JavaScript code, use \"text\" mode in editor"
+msgstr ""
+
+#: core/admin/options-fields.php:2465
+msgid "Above footer"
+msgstr ""
+
+#: core/admin/options-fields.php:2466
+msgid "This ad will be displayed between your footer and website content"
+msgstr ""
+
+#: core/admin/options-fields.php:2478
+msgid "Above single post content"
+msgstr ""
+
+#: core/admin/options-fields.php:2479
+msgid "This ad will be displayed above post content on your single post templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2491
+msgid "Below single post content"
+msgstr ""
+
+#: core/admin/options-fields.php:2492
+msgid "This ad will be displayed below post content on your single post templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2504
+msgid "Archive ad (between posts)"
+msgstr ""
+
+#: core/admin/options-fields.php:2505
+msgid "This ad will be displayed between posts listing on archive pages such as category, tags, author etc.."
+msgstr ""
+
+#: core/admin/options-fields.php:2518
+msgid "Archive ad position"
+msgstr ""
+
+#: core/admin/options-fields.php:2519
+msgid "Choose a position for your archive ad (i.e. if you put 4, it will be displayed instead of the 4th post)"
+msgstr ""
+
+#: core/admin/options-fields.php:2527
+msgid "Do not show ads on 404 page"
+msgstr ""
+
+#: core/admin/options-fields.php:2528
+msgid "Disable ads on 404 error page"
+msgstr ""
+
+#: core/admin/options-fields.php:2535
+msgid "Do not show ads on specific pages"
+msgstr ""
+
+#: core/admin/options-fields.php:2536
+msgid "Select pages on which you don't want to display ads"
+msgstr ""
+
+#: core/admin/options-fields.php:2553
+msgid "Misc."
+msgstr ""
+
+#: core/admin/options-fields.php:2554
+msgid "These are some additional miscellaneous theme settings"
+msgstr ""
+
+#: core/admin/options-fields.php:2560
+msgid "RTL mode (right to left)"
+msgstr ""
+
+#: core/admin/options-fields.php:2561
+msgid "Enable this option if you are using right to left writing/reading"
+msgstr ""
+
+#: core/admin/options-fields.php:2568
+msgid "Skip RTL for specific language(s)"
+msgstr ""
+
+#: core/admin/options-fields.php:2569
+msgid "Paste specific WordPress language <a href=\"http://wpcentral.io/internationalization/\" target=\"_blank\">locale code</a> to exclude it from the RTL mode"
+msgstr ""
+
+#: core/admin/options-fields.php:2570
+msgid "i.e. If you are using Arabic and English versions on the same WordPress installation you should put \"en_US\" in this field and its version will not be displayed as RTL. Note: To exclude multiple languages, separate by comma: en_US, de_DE"
+msgstr ""
+
+#: core/admin/options-fields.php:2580
+msgid "More string"
+msgstr ""
+
+#: core/admin/options-fields.php:2581
+msgid "Specify your \"more\" string to append after limited post excerpts"
+msgstr ""
+
+#: core/admin/options-fields.php:2590
+msgid "Post views forgery"
+msgstr ""
+
+#: core/admin/options-fields.php:2591
+msgid "Specify a value to add to the real number of entry views for each post"
+msgstr ""
+
+#: core/admin/options-fields.php:2592
+msgid "i.e. If a post has 45 views and you put 100, your post will display 145 views"
+msgstr ""
+
+#: core/admin/options-fields.php:2600
+msgid "Use gridlove gallery style"
+msgstr ""
+
+#: core/admin/options-fields.php:2601
+msgid "Check if you want to use our built in gallery style or disable if you want to use default WordPress gallery or some other gallery plugin"
+msgstr ""
+
+#: core/admin/options-fields.php:2608
+msgid "Open content image(s) in pop-up"
+msgstr ""
+
+#: core/admin/options-fields.php:2609
+msgid "Enable this option if you want regular images inserted in post/page content to be open in pop-up"
+msgstr ""
+
+#: core/admin/options-fields.php:2616
+msgid "Paginated posts display featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:2617
+msgid "Choose wheter to display featured images for paginated/multi-page posts"
+msgstr ""
+
+#: core/admin/options-fields.php:2619
+msgid "Always"
+msgstr ""
+
+#: core/admin/options-fields.php:2620
+msgid "Only on first page"
+msgstr ""
+
+#: core/admin/options-fields.php:2621
+msgid "Never"
+msgstr ""
+
+#: core/admin/options-fields.php:2629
+msgid "Enable breadcrumbs support"
+msgstr ""
+
+#: core/admin/options-fields.php:2630
+msgid "Select a plugin you are using for breadcrumbs"
+msgstr ""
+
+#: core/admin/options-fields.php:2633
+msgid "Yoast SEO (or Yoast Breadcrumbs)"
+msgstr ""
+
+#: core/admin/options-fields.php:2634
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: core/admin/options-fields.php:2642
+msgid "Primary category support"
+msgstr ""
+
+#: core/admin/options-fields.php:2643
+msgid "This option supports primary category feature from Yoast SEO plugin. If a post is assigned to multiple categories, only selected primary category will be displayed for that post in all listing layouts"
+msgstr ""
+
+#: core/admin/options-fields.php:2651
+msgid "Words to read per minute"
+msgstr ""
+
+#: core/admin/options-fields.php:2652
+msgid "Use this option to set number of words your visitors read per minute, in order to fine-tune calculation of post reading time meta data"
+msgstr ""
+
+#: core/admin/options-fields.php:2660
+msgid "Use \"last modified\" date for post meta data"
+msgstr ""
+
+#: core/admin/options-fields.php:2661
+msgid "Enable this option if you want posts to display modified date instead of publish date."
+msgstr ""
+
+#: core/admin/options-fields.php:2668
+msgid "Back to top"
+msgstr ""
+
+#: core/admin/options-fields.php:2669
+msgid "Enable this option if you want to use back to top button."
+msgstr ""
+
+#: core/admin/options-fields.php:2683
+msgid "WooCommerce"
+msgstr ""
+
+#: core/admin/options-fields.php:2684
+msgid "Manage options for WooCommerce pages"
+msgstr ""
+
+#: core/admin/options-fields.php:2689
+msgid "Product sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2690
+msgid "Choose sidebar layout for WooCommerce products"
+msgstr ""
+
+#: core/admin/options-fields.php:2698
+msgid "Product standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2699
+msgid "Choose standard sidebar for WooCommerce products"
+msgstr ""
+
+#: core/admin/options-fields.php:2708
+msgid "Product sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2709
+msgid "Choose sticky sidebar for WooCommerce products"
+msgstr ""
+
+#: core/admin/options-fields.php:2718
+msgid "Product archives sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2719
+msgid "Choose sidebar layout for WooCommerce products category, tag, archive etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:2727
+msgid "Product archives standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2728
+msgid "Choose standard sidebar for WooCommerce products category, tag, archive etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:2737
+msgid "Product archives sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2738
+msgid "Choose sticky sidebar for WooCommerce products category, tag, archive etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:2752
+msgid "bbPress"
+msgstr ""
+
+#: core/admin/options-fields.php:2753
+msgid "Manage options for bbPress pages"
+msgstr ""
+
+#: core/admin/options-fields.php:2758
+msgid "Forum sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2759
+msgid "Choose sidebar layout for bbPress forums"
+msgstr ""
+
+#: core/admin/options-fields.php:2767
+msgid "Forum standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2768
+msgid "Choose standard sidebar for bbPress forums"
+msgstr ""
+
+#: core/admin/options-fields.php:2777
+msgid "Forum sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2778
+msgid "Choose sticky sidebar for bbPress forums"
+msgstr ""
+
+#: core/admin/options-fields.php:2787
+msgid "Topic sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2788
+msgid "Choose sidebar layout for bbPress topics"
+msgstr ""
+
+#: core/admin/options-fields.php:2796
+msgid "Topic standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2797
+msgid "Choose standard sidebar for bbPress topics"
+msgstr ""
+
+#: core/admin/options-fields.php:2806
+msgid "Topic sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2807
+msgid "Choose sticky sidebar for bbPress topics"
+msgstr ""
+
+#: core/admin/options-fields.php:2831
+msgid "Enable theme translation?"
+msgstr ""
+
+#: core/admin/options-fields.php:2849
+msgid "Translation"
+msgstr ""
+
+#: core/admin/options-fields.php:2850
+msgid "Use these settings to quckly translate or change the text in this theme. If you want to remove the text completely instead of modifying it, you can use <strong>\"-1\"</strong> as a value for particular field translation. <br/><br/><strong>Note:</strong> If you are using this theme for a multilingual website, you need to disable these options and use multilanguage plugins (such as WPML) and manual translation with .po and .mo files located inside the \"languages\" folder."
+msgstr ""
+
+#: core/admin/options-fields.php:2857
+msgid "Performance"
+msgstr ""
+
+#: core/admin/options-fields.php:2858
+msgid "Use these options to put your theme to a high speed as well as save your server resources!"
+msgstr ""
+
+#: core/admin/options-fields.php:2864
+msgid "Use minified CSS"
+msgstr ""
+
+#: core/admin/options-fields.php:2865
+msgid "Load all theme css files combined and minified into a single file."
+msgstr ""
+
+#: core/admin/options-fields.php:2872
+msgid "Use minified JS"
+msgstr ""
+
+#: core/admin/options-fields.php:2873
+msgid "Load all theme js files combined and minified into a single file."
+msgstr ""
+
+#: core/admin/options-fields.php:2881
+msgid "Disable additional image sizes"
+msgstr ""
+
+#: core/admin/options-fields.php:2882
+msgid "By default, theme generates additional image size for each of the layouts it offers. You can use this option to avoid creating additional sizes if you are not using particular layout in order to save your server space."
+msgstr ""
+
+#: core/admin/options-fields.php:2884
+msgid "Cover image"
+msgstr ""
+
+#: core/admin/options-fields.php:2885
+msgid "Single post image (also used for pages)"
+msgstr ""
+
+#: core/admin/options-fields.php:2886
+msgid "Layout A image"
+msgstr ""
+
+#: core/admin/options-fields.php:2887
+msgid "Layout B image"
+msgstr ""
+
+#: core/admin/options-fields.php:2888
+msgid "Layout D image (also used for cover 3 and 4)"
+msgstr ""
+
+#: core/admin/options-fields.php:2903
+msgid "Additional Code"
+msgstr ""
+
+#: core/admin/options-fields.php:2904
+msgid "Modify the default styling of the theme by adding custom CSS or JavaScript code. Note: These options are for advanced users only, so use it with caution."
+msgstr ""
+
+#: core/admin/options-fields.php:2911
+msgid "Additional CSS"
+msgstr ""
+
+#: core/admin/options-fields.php:2912
+msgid "Use this field to add CSS code and modify the default theme styling"
+msgstr ""
+
+#: core/admin/options-fields.php:2921
+msgid "Additional JavaScript"
+msgstr ""
+
+#: core/admin/options-fields.php:2922
+msgid "Use this field to add JavaScript code"
+msgstr ""
+
+#: core/admin/options-fields.php:2923
+msgid "Note: Please use clean execution JavaScript code without \"script\" tags"
+msgstr ""
