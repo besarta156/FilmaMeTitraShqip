@@ -1,0 +1,826 @@
+# Copyright (C) 2019 gridlove
+# This file is distributed under the same license as the gridlove package.
+msgid ""
+msgstr ""
+"Project-Id-Version: gridlove\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: core/admin/demo-importer.php:36
+msgid "Use this panel to import content from theme demo example(s). Note: If you want to try multiple demos, please use %s plugin to reset your WordPress installation after each import and try another demo afterwards."
+msgstr ""
+
+#: core/admin/demo-importer.php:57
+msgid "Gridlove Default"
+msgstr ""
+
+#: core/admin/extensions.php:27
+msgid "Highlight this widget"
+msgstr ""
+
+#: core/admin/extensions.php:29
+msgid "Display widget in <a href=\"%s\">highlight styling</a>."
+msgstr ""
+
+#: core/admin/helpers.php:14, core/admin/helpers.php:526, core/admin/helpers.php:565
+msgid "Date"
+msgstr ""
+
+#: core/admin/helpers.php:15
+msgid "Number of comments"
+msgstr ""
+
+#: core/admin/helpers.php:16
+msgid "Number of views"
+msgstr ""
+
+#: core/admin/helpers.php:17
+msgid "Title (alphabetically)"
+msgstr ""
+
+#: core/admin/helpers.php:18
+msgid "Random"
+msgstr ""
+
+#: core/admin/helpers.php:38
+msgid "1 Day"
+msgstr ""
+
+#: core/admin/helpers.php:39
+msgid "3 Days"
+msgstr ""
+
+#: core/admin/helpers.php:40
+msgid "1 Week"
+msgstr ""
+
+#: core/admin/helpers.php:41
+msgid "1 Month"
+msgstr ""
+
+#: core/admin/helpers.php:42
+msgid "3 Months"
+msgstr ""
+
+#: core/admin/helpers.php:43
+msgid "6 Months"
+msgstr ""
+
+#: core/admin/helpers.php:44
+msgid "1 Year"
+msgstr ""
+
+#: core/admin/helpers.php:45
+msgid "All time"
+msgstr ""
+
+#: core/admin/helpers.php:63
+msgid "Standard"
+msgstr ""
+
+#: core/admin/helpers.php:72
+msgid "All"
+msgstr ""
+
+#: core/admin/helpers.php:92, core/admin/options-fields.php:1108, core/admin/options-fields.php:1115
+msgid "Layout A"
+msgstr ""
+
+#: core/admin/helpers.php:93, core/admin/options-fields.php:1154, core/admin/options-fields.php:1162
+msgid "Layout B"
+msgstr ""
+
+#: core/admin/helpers.php:94, core/admin/options-fields.php:1204, core/admin/options-fields.php:1212
+msgid "Layout C"
+msgstr ""
+
+#: core/admin/helpers.php:95, core/admin/options-fields.php:1251, core/admin/options-fields.php:1259
+msgid "Layout D"
+msgstr ""
+
+#: core/admin/helpers.php:114, core/admin/helpers.php:145, core/admin/helpers.php:172, core/admin/helpers.php:211, core/admin/helpers.php:244, core/admin/helpers.php:298, core/admin/helpers.php:339, core/admin/helpers.php:371, core/admin/helpers.php:405, core/admin/helpers.php:432, core/admin/helpers.php:464
+msgid "Inherit"
+msgstr ""
+
+#: core/admin/helpers.php:117, core/admin/helpers.php:271
+msgid "Layout A (3 columns)"
+msgstr ""
+
+#: core/admin/helpers.php:118
+msgid "Layout B (1 column)"
+msgstr ""
+
+#: core/admin/helpers.php:119
+msgid "Layout B (2 columns)"
+msgstr ""
+
+#: core/admin/helpers.php:120, core/admin/helpers.php:272
+msgid "Layout C (3 columns)"
+msgstr ""
+
+#: core/admin/helpers.php:121, core/admin/helpers.php:273
+msgid "Layout C (4 columns)"
+msgstr ""
+
+#: core/admin/helpers.php:122, core/admin/helpers.php:274
+msgid "Layout D (3 columns)"
+msgstr ""
+
+#: core/admin/helpers.php:123, core/admin/helpers.php:275
+msgid "Layout D (4 columns)"
+msgstr ""
+
+#: core/admin/helpers.php:124, core/admin/helpers.php:276
+msgid "Layout D (2 columns)"
+msgstr ""
+
+#: core/admin/helpers.php:148, core/admin/helpers.php:179, core/admin/helpers.php:214, core/admin/helpers.php:247, core/admin/helpers.php:305, core/admin/helpers.php:342, core/admin/helpers.php:374, core/admin/options-fields.php:88, core/admin/options-fields.php:426, core/admin/options-fields.php:794, core/admin/options-fields.php:802
+msgid "Layout 1"
+msgstr ""
+
+#: core/admin/helpers.php:149, core/admin/helpers.php:180, core/admin/helpers.php:215, core/admin/helpers.php:248, core/admin/helpers.php:306, core/admin/helpers.php:343, core/admin/helpers.php:375, core/admin/options-fields.php:89, core/admin/options-fields.php:427, core/admin/options-fields.php:881, core/admin/options-fields.php:889
+msgid "Layout 2"
+msgstr ""
+
+#: core/admin/helpers.php:150, core/admin/helpers.php:181, core/admin/helpers.php:216, core/admin/helpers.php:249, core/admin/helpers.php:307, core/admin/helpers.php:344, core/admin/helpers.php:376, core/admin/options-fields.php:90, core/admin/options-fields.php:966, core/admin/options-fields.php:974
+msgid "Layout 3"
+msgstr ""
+
+#: core/admin/helpers.php:151, core/admin/helpers.php:182, core/admin/helpers.php:217, core/admin/helpers.php:250, core/admin/helpers.php:308, core/admin/helpers.php:345, core/admin/helpers.php:377, core/admin/options-fields.php:91, core/admin/options-fields.php:1032, core/admin/options-fields.php:1040
+msgid "Layout 4"
+msgstr ""
+
+#: core/admin/helpers.php:152, core/admin/helpers.php:183, core/admin/helpers.php:218, core/admin/helpers.php:251, core/admin/helpers.php:346, core/admin/helpers.php:378, core/admin/options-fields.php:92
+msgid "Layout 5"
+msgstr ""
+
+#: core/admin/helpers.php:176, core/admin/helpers.php:302, core/admin/helpers.php:408, core/admin/helpers.php:436, core/admin/helpers.php:467, core/admin/helpers.php:566, core/admin/helpers.php:591, core/admin/options-fields.php:2632
+msgid "None"
+msgstr ""
+
+#: core/admin/helpers.php:184, core/admin/helpers.php:219, core/admin/helpers.php:347, core/admin/helpers.php:379, core/admin/options-fields.php:93
+msgid "Layout 6"
+msgstr ""
+
+#: core/admin/helpers.php:185, core/admin/helpers.php:220, core/admin/helpers.php:348
+msgid "Layout 7"
+msgstr ""
+
+#: core/admin/helpers.php:186, core/admin/helpers.php:221, core/admin/helpers.php:349
+msgid "Layout 8"
+msgstr ""
+
+#: core/admin/helpers.php:187, core/admin/helpers.php:222, core/admin/helpers.php:350
+msgid "Layout 9"
+msgstr ""
+
+#: core/admin/helpers.php:188, core/admin/helpers.php:223
+msgid "Layout 10"
+msgstr ""
+
+#: core/admin/helpers.php:189, core/admin/helpers.php:224
+msgid "Layout 11"
+msgstr ""
+
+#: core/admin/helpers.php:190
+msgid "Layout 12"
+msgstr ""
+
+#: core/admin/helpers.php:309
+msgid "Custom"
+msgstr ""
+
+#: core/admin/helpers.php:409
+msgid "Left sidebar"
+msgstr ""
+
+#: core/admin/helpers.php:410
+msgid "Right sidebar"
+msgstr ""
+
+#: core/admin/helpers.php:439
+msgid "Numeric pagination links"
+msgstr ""
+
+#: core/admin/helpers.php:440
+msgid "Prev/Next page links"
+msgstr ""
+
+#: core/admin/helpers.php:441
+msgid "Load more button"
+msgstr ""
+
+#: core/admin/helpers.php:442
+msgid "Infinite scroll"
+msgstr ""
+
+#: core/admin/helpers.php:525
+msgid "Author"
+msgstr ""
+
+#: core/admin/helpers.php:527
+msgid "Comments"
+msgstr ""
+
+#: core/admin/helpers.php:528
+msgid "Views"
+msgstr ""
+
+#: core/admin/helpers.php:529
+msgid "Reading time"
+msgstr ""
+
+#: core/admin/helpers.php:562, core/admin/helpers.php:589, core/menus.php:18
+msgid "Secondary Menu 1"
+msgstr ""
+
+#: core/admin/helpers.php:563, core/admin/helpers.php:590, core/menus.php:19
+msgid "Secondary Menu 2"
+msgstr ""
+
+#: core/admin/helpers.php:564, core/menus.php:17
+msgid "Social Menu"
+msgstr ""
+
+#: core/admin/helpers.php:588, core/menus.php:16
+msgid "Main Menu"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:73, core/admin/metaboxes/category.php:229
+msgid "Color"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:74, core/admin/metaboxes/category.php:231
+msgid "Inherit from accent color"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:75, core/admin/metaboxes/category.php:232
+msgid "Set custom color"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:83, core/admin/metaboxes/category.php:240
+msgid "Recently used"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:94, core/admin/metaboxes/category.php:251
+msgid "Layout options"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:95, core/admin/metaboxes/category.php:253
+msgid "Inherit from global category options"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:96, core/admin/metaboxes/category.php:254
+msgid "Set custom layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:100, core/admin/metaboxes/category.php:260, core/admin/options-fields.php:1756
+msgid "Cover area layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:114, core/admin/metaboxes/category.php:276, core/admin/options-fields.php:1767
+msgid "Number of cover area posts"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:119, core/admin/metaboxes/category.php:283
+msgid "Layout type"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:120, core/admin/metaboxes/category.php:285, core/admin/options-fields.php:1802, core/admin/options-fields.php:1909, core/admin/options-fields.php:1984, core/admin/options-fields.php:2058, core/admin/options-fields.php:2132, core/modules.php:156, core/modules.php:170, core/modules.php:188
+msgid "Simple"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:121, core/admin/metaboxes/category.php:286, core/admin/options-fields.php:1803, core/admin/options-fields.php:1910, core/admin/options-fields.php:1985, core/admin/options-fields.php:2059, core/admin/options-fields.php:2133, core/modules.php:159, core/modules.php:191
+msgid "Masonry"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:125, core/admin/metaboxes/category.php:139, core/admin/metaboxes/category.php:291, core/admin/metaboxes/category.php:307, core/admin/options-fields.php:1811, core/admin/options-fields.php:1821, core/admin/options-fields.php:1918, core/admin/options-fields.php:1928, core/admin/options-fields.php:1993, core/admin/options-fields.php:2003, core/admin/options-fields.php:2067, core/admin/options-fields.php:2077, core/admin/options-fields.php:2141, core/admin/options-fields.php:2151
+msgid "Main layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:153, core/admin/metaboxes/category.php:323
+msgid "Number of main layout posts per page"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:158, core/admin/metaboxes/category.php:330, core/admin/options-fields.php:1864, core/admin/options-fields.php:1873
+msgid "Combo layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:172, core/admin/metaboxes/category.php:346, core/admin/metaboxes/page.php:67, core/admin/options-fields.php:1854, core/admin/options-fields.php:1961, core/admin/options-fields.php:2035, core/admin/options-fields.php:2109, core/admin/options-fields.php:2184
+msgid "Pagination"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:186, core/admin/metaboxes/category.php:362, core/admin/options-fields.php:735
+msgid "Image"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:194, core/admin/metaboxes/category.php:371, core/admin/metaboxes/page.php:1151
+msgid "Upload"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:195, core/admin/metaboxes/category.php:372
+msgid "Clear"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:198, core/admin/metaboxes/category.php:375
+msgid "Upload an image for this category"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:17, core/admin/metaboxes/page.php:350, core/admin/metaboxes/page.php:691, core/admin/metaboxes/page.php:936, core/admin/metaboxes/page.php:1372, core/admin/metaboxes/post.php:17, core/admin/options-fields.php:423, core/admin/options-fields.php:1394
+msgid "Layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:27, core/admin/metaboxes/post.php:27
+msgid "Sidebar"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:37, template-authors.php:3
+msgid "Authors"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:47, core/admin/options-fields.php:726
+msgid "Cover Area"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:57, template-modules.php:3
+msgid "Modules"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:227
+msgid "You don't have any modules on this page yet. Click the button below to create your first module."
+msgstr ""
+
+#: core/admin/metaboxes/page.php:240
+msgid "Module"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:294
+msgid "Edit"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:295, inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:295
+msgid "Deactivate"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:296
+msgid "Remove"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:329, core/admin/metaboxes/page.php:670, core/admin/metaboxes/page.php:1351
+msgid "Appearance"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:330, core/admin/metaboxes/page.php:671, core/admin/metaboxes/page.php:1352
+msgid "Selection"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:337, core/admin/metaboxes/page.php:678, core/admin/metaboxes/page.php:839, core/admin/metaboxes/page.php:1359, core/widgets/adsense.php:65, core/widgets/categories.php:83, core/widgets/posts.php:217
+msgid "Title"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:342, core/admin/metaboxes/page.php:683, core/admin/metaboxes/page.php:844, core/admin/metaboxes/page.php:1364
+msgid "Do not display publicly"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:343, core/admin/metaboxes/page.php:684, core/admin/metaboxes/page.php:845, core/admin/metaboxes/page.php:1365
+msgid "Enter your module title"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:436, core/admin/metaboxes/page.php:973, core/admin/metaboxes/page.php:1458
+msgid "Number of posts"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:467, core/admin/metaboxes/page.php:1487
+msgid "Inject custom content:"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:470, core/admin/metaboxes/page.php:1490
+msgid "Add content/code in certain postition by replacing that post."
+msgstr ""
+
+#: core/admin/metaboxes/page.php:477, core/admin/metaboxes/page.php:1497
+msgid "Custom content position"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:481, core/admin/metaboxes/page.php:1501
+msgid "Specify position of a post which will be replaced by custom content "
+msgstr ""
+
+#: core/admin/metaboxes/page.php:487, core/admin/metaboxes/page.php:1507
+msgid "Custom content"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:491, core/admin/metaboxes/page.php:859, core/admin/metaboxes/page.php:1511
+msgid "Paste any text, HTML, script or shortcodes here"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:495, core/admin/metaboxes/page.php:863, core/admin/metaboxes/page.php:1515
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:500, core/admin/metaboxes/page.php:868, core/admin/metaboxes/page.php:1520
+msgid "Center align content"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:510, core/admin/metaboxes/page.php:1529
+msgid "Actions:"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:513, core/admin/metaboxes/page.php:1532
+msgid "Display \"view all\" button"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:516, core/admin/metaboxes/page.php:1535, core/modules.php:71
+msgid "Text"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:517, core/admin/metaboxes/page.php:1536
+msgid "URL"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:518, core/admin/metaboxes/page.php:1537
+msgid "Specify text and URL for \"view all\" button"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:522, core/admin/metaboxes/page.php:746, core/admin/metaboxes/page.php:1541, core/widgets/posts.php:239
+msgid "Autoplay (rotate) slider every"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:523, core/admin/metaboxes/page.php:747, core/admin/metaboxes/page.php:1542, core/widgets/posts.php:239
+msgid "seconds"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:531, core/admin/metaboxes/page.php:785, core/admin/metaboxes/page.php:894, core/admin/metaboxes/page.php:1550
+msgid "Custom CSS class"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:535, core/admin/metaboxes/page.php:789, core/admin/metaboxes/page.php:898, core/admin/metaboxes/page.php:1554
+msgid "Specify class name for a possibility to apply custom styling to this module using CSS (i.e. my-custom-module)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:545, core/admin/metaboxes/page.php:983, core/admin/metaboxes/page.php:1299, core/admin/metaboxes/page.php:1564
+msgid "Order by"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:554, core/admin/metaboxes/page.php:992, core/admin/metaboxes/page.php:1574, core/widgets/posts.php:252
+msgid "Or choose manually"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:555, core/admin/metaboxes/page.php:993, core/admin/metaboxes/page.php:1575
+msgid "Type to search..."
+msgstr ""
+
+#: core/admin/metaboxes/page.php:570, core/admin/metaboxes/page.php:1007, core/admin/metaboxes/page.php:1592
+msgid "Sort"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:573, core/admin/metaboxes/page.php:1010, core/admin/metaboxes/page.php:1595
+msgid "Descending"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:574, core/admin/metaboxes/page.php:1011, core/admin/metaboxes/page.php:1596
+msgid "Ascending"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:580, core/admin/options-fields.php:1317
+msgid "In category"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:589
+msgid "Check whether you want to display posts from specific categories only"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:591
+msgid "Apply child categories"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:592
+msgid "If parent category is selected, posts from child categories will be included automatically"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:594, core/admin/metaboxes/page.php:608, core/admin/metaboxes/page.php:1084, core/admin/metaboxes/page.php:1626
+msgid "Include"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:595, core/admin/metaboxes/page.php:609, core/admin/metaboxes/page.php:1086, core/admin/metaboxes/page.php:1627
+msgid "Exclude"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:596
+msgid "Whether to include or exclude posts from selected categories"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:602, core/admin/options-fields.php:1328, core/widgets/posts.php:269
+msgid "Tagged with"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:606, core/widgets/posts.php:271
+msgid "Specify one or more tags separated by comma. i.e. life, cooking, funny moments"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:610
+msgid "Whether to include or exclude posts from selected tags"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:616, core/admin/metaboxes/page.php:1096
+msgid "Format"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:622, core/admin/metaboxes/page.php:1102
+msgid "Display posts that have a specific format"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:628, core/admin/metaboxes/page.php:1108, core/admin/metaboxes/page.php:1635
+msgid "Not older than"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:634, core/admin/metaboxes/page.php:1114, core/admin/metaboxes/page.php:1641
+msgid "Display posts that are not older than specific time range"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:640, core/admin/metaboxes/page.php:1017, core/admin/metaboxes/page.php:1647
+msgid "Unique posts (do not duplicate)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:644, core/admin/metaboxes/page.php:1651
+msgid "If you check this option, posts in this module will be excluded from other modules below."
+msgstr ""
+
+#: core/admin/metaboxes/page.php:742
+msgid "Slider Action:"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:754
+msgid "Apply category colors:"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:766
+msgid "Display posts count"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:776
+msgid "Count label"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:799
+msgid "Categories"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:813
+msgid "Select and re-order categories you would like to display, or leave empty for \"all categories\""
+msgstr ""
+
+#: core/admin/metaboxes/page.php:851, core/admin/options-fields.php:517
+msgid "Content"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:875
+msgid "Style"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:881
+msgid "Boxed (the same as posts module)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:886
+msgid "Transparent (without box and background)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:888
+msgid "Choose how to display text module"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:949
+msgid "Choose your cover area layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:955
+msgid "Post type"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:977
+msgid "Max number of posts to display"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1021
+msgid "If you check this option, selected posts will be excluded from modules."
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1072
+msgid "Apply child %s"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1074
+msgid "Check whether you want to display posts from specific %s only"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1078
+msgid "Specify one or more %s separated by comma. i.e. life, cooking, funny moments"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1088
+msgid "Whether to include or exclude posts from selected %s"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1126
+msgid "Custom Content"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1145
+msgid "Background Image"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1187
+msgid "Note: Pagination will be applied to the last post module on the page"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1221, core/admin/metaboxes/post.php:132
+msgid "Choose a layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1254, core/admin/metaboxes/post.php:168, core/admin/options-fields.php:1412, core/admin/options-fields.php:1699
+msgid "Display sidebar"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1263, core/admin/metaboxes/post.php:177
+msgid "Choose standard sidebar to display"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1270, core/admin/metaboxes/post.php:184
+msgid "Choose sticky sidebar to display"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1292
+msgid "Post Count"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1293
+msgid "Username"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1294
+msgid "Display Name"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1295
+msgid "Register Date"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1304
+msgid "$name"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1307
+msgid "Order"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1313
+msgid "Exclude roles"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1320
+msgid "$role"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1323
+msgid "Exclude by ID"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1326
+msgid "Enter author IDs separated by comma"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1603
+msgid "In "
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1616
+msgid "Check whether you want to display cpt from specific"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1622
+msgid "Specify one or more terms separated by comma. i.e. life, cooking, funny moments"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1628
+msgid "Whether to include or exclude cpt from selected taxonomies"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:37
+msgid "Display options"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:237
+msgid "Optionally override global single post display options"
+msgstr ""
+
+#: core/admin/options-custom-fields/sidgen/field_sidgen.php:45
+msgid "Add Sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:6
+msgid "Branding"
+msgstr ""
+
+#: core/admin/options-fields.php:7
+msgid "Personalize theme by adding your own images"
+msgstr ""
+
+#: core/admin/options-fields.php:14
+msgid "Logo"
+msgstr ""
+
+#: core/admin/options-fields.php:15
+msgid "Upload your logo image here, or leave empty to show the website title instead."
+msgstr ""
+
+#: core/admin/options-fields.php:23
+msgid "Retina logo (2x)"
+msgstr ""
+
+#: core/admin/options-fields.php:24
+msgid "Optionally upload another logo for devices with retina displays. It should be double the size of your standard logo"
+msgstr ""
+
+#: core/admin/options-fields.php:32
+msgid "Mini logo"
+msgstr ""
+
+#: core/admin/options-fields.php:33
+msgid "Optionally upload another logo which may be used as mobile/tablet logo"
+msgstr ""
+
+#: core/admin/options-fields.php:41
+msgid "Mini retina logo (2x)"
+msgstr ""
+
+#: core/admin/options-fields.php:42
+msgid "Upload double sized mini logo for devices with retina displays"
+msgstr ""
+
+#: core/admin/options-fields.php:49
+msgid "Custom logo URL"
+msgstr ""
+
+#: core/admin/options-fields.php:50
+msgid "Optionally specify custom URL if you want logo to point out to some other page/website instead of your home page"
+msgstr ""
+
+#: core/admin/options-fields.php:58
+msgid "Default featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:59
+msgid "Upload your default featured image/placeholder. It will be displayed for posts that do not have a featured image set."
+msgstr ""
+
+#: core/admin/options-fields.php:69
+msgid "Header"
+msgstr ""
+
+#: core/admin/options-fields.php:77
+msgid "Main"
+msgstr ""
+
+#: core/admin/options-fields.php:78
+msgid "Modify and style your main header area"
+msgstr ""
+
+#: core/admin/options-fields.php:85
+msgid "Header layout"
+msgstr ""
+
+#: core/admin/options-fields.php:86
+msgid "Choose a layout for your header"
+msgstr ""
+
+#: core/admin/options-fields.php:102
+msgid "Enable site description"
+msgstr ""
+
+#: core/admin/options-fields.php:103
+msgid "Check if you want to display site description below logo"
+msgstr ""
+
+#: core/admin/options-fields.php:112
+msgid "Enable special elements in header"
+msgstr ""
+
+#: core/admin/options-fields.php:113, core/admin/options-fields.php:449
+msgid "Check and reorder special elements you want to display"
+msgstr ""
+
+#: core/admin/options-fields.php:116, core/admin/options-fields.php:452
+msgid "Search button"
+msgstr ""
