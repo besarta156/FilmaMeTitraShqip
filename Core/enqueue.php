@@ -2,7 +2,6 @@
 
 /* Load frontend scripts and styles */
 add_action( 'wp_enqueue_scripts', 'gridlove_load_scripts' );
-
 /**
  * Load scripts and styles on frontend
  *
