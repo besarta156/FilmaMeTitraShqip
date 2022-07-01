@@ -1,11 +1,9 @@
 <?php
-
 /**
  * Category widget class
  *
  * @since  1.0
  */
-
 class GRIDLOVE_Category_Widget extends WP_Widget {
 
 	var $defaults;
