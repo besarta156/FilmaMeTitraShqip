@@ -18,7 +18,7 @@ if ( !function_exists( 'gridlove_log' ) ):
 		global $wp_filesystem;
 
 		if ( is_array( $mixed ) ) {
-			$mixed = print_r( $mixed, 1 );
+			$mixed = print_r( $mixed, 1 ); 
 		} else if ( is_object( $mixed ) ) {
 				ob_start();
 				var_dump( $mixed );
