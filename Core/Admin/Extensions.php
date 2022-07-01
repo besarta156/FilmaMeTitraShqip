@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * in_widget_form callback
  *
@@ -9,7 +7,6 @@
  * @return void
  * @since  1.0
  */
-
 add_action( 'in_widget_form', 'gridlove_add_widget_form_options', 10, 3 );
 
 if ( !function_exists( 'gridlove_add_widget_form_options' ) ) :
