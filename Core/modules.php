@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Get module defaults
  *
@@ -81,7 +80,6 @@ if ( !function_exists( 'gridlove_get_module_defaults' ) ):
 		);
 
 		$custom_post_types = gridlove_get_custom_post_types();
-
 		if ( !empty( $custom_post_types ) ) {
 			foreach ( $custom_post_types as $custom_post_type ) {
 				$defaults[$custom_post_type] = array(
