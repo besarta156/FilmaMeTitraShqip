@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Register sidebars
  *
@@ -8,7 +7,6 @@
  * @return void
  * @since  1.0
  */
-
 add_action( 'widgets_init', 'gridlove_register_sidebars' );
 
 if ( !function_exists( 'gridlove_register_sidebars' ) ) :
