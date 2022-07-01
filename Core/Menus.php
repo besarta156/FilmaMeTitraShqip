@@ -20,7 +20,6 @@ if( !function_exists( 'gridlove_register_menus' ) ) :
     }
 endif;
 
-
 /**
  * wp_setup_nav_menu_item callback
  * 
