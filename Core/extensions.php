@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * body_class callback
  *
